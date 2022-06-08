@@ -432,3 +432,11 @@ Received Import Request.
 Start importing Assets/Materials/New Material.mat using Guid(58614096f4de24ff78fc9d5d6c118b60) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '97553f0f0eaab4d18a93abb95d16b342') in 0.098062 seconds 
   Import took 0.113668 seconds .
 
+========================================================================
+Received Import Request.
+  Time since last request: 698.748320 seconds.
+  path: Assets/Materials/checker_shader.mat
+  artifactKey: Guid(58614096f4de24ff78fc9d5d6c118b60) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/checker_shader.mat using Guid(58614096f4de24ff78fc9d5d6c118b60) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a93e20378649e7931956897d6e6ab505') in 0.145210 seconds 
+  Import took 0.260516 seconds .
+
